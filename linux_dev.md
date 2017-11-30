@@ -1,0 +1,3 @@
+- [Steam Dev days] Getting Started with Linux Game Development : https://www.youtube.com/watch?v=Sd8ie5R4CVE
+- [Steam Dev days] Getting Started Debugging on Linux : https://www.youtube.com/watch?v=xTmAknUbpB0
+- [Steam Dev days] Game Development with SDL 2.0: https://www.youtube.com/watch?v=MeMPCSqQ-34
