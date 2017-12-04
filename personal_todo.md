@@ -11,7 +11,7 @@
     - Cuisine
     - Rangements bordel
     - Chambre bebe
-    - Chanbre parents
+    - Chambre parents
 - Cadeaux Noel
     - Noam
     - Babi
