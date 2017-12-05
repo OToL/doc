@@ -39,10 +39,18 @@
         * rad telemetry
         * ApiTrace
         * Zoom
+- Porting Games To Linux: https://www.youtube.com/watch?v=d8kfva6G0c4
+    * Steam Runtime: bunch of ubuntu libraries Steam is distributing
+    * Bundle dependencies
+    * Nice DAG of his port workflow but similar to what I have already heard
+    * Case sensitivity again
+    * Use platform best practices
+        * Get locales
+        * Use XDG for application config files
+    * Linters: CppCheck
 - [Steam Dev days] Game Development with SDL 2.0: https://www.youtube.com/watch?v=MeMPCSqQ-34
 - [Steam Dev days] Getting Started Debugging on Linux : https://www.youtube.com/watch?v=xTmAknUbpB0
 - [Steamworks Development] https://www.youtube.com/user/SteamworksDev
     * To investigate available videos
 - [Steamworks Development] Building Unity Games for SteamOS/Linux: https://www.youtube.com/watch?v=WYdOQ_k6YvI
-- Porting Games To Linux: https://www.youtube.com/watch?v=d8kfva6G0c4
 - [VS2017] Linux development with C++: https://www.youtube.com/watch?v=XIiFuBczd6A & https://www.youtube.com/watch?v=4NenIuAbtGs
