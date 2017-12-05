@@ -34,7 +34,7 @@
     - David
     - Eva
     - Lea
-        X Memoro
+        * Memoro
         * Pot pipi
         * DVD
         * peinture + tablier
