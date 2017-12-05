@@ -4,6 +4,7 @@
         - Erika
         - Klara
         - Mia
+        - Maya
         - Sylvia
         - Eliane
         - Laura
