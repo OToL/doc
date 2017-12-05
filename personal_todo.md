@@ -1,6 +1,17 @@
 - Bebe
     - Paternite
     - Prenom
+        - Mia
+        - Maya
+        - Eliane
+        - Laura
+        - Leonie
+        - Elena
+        - Nina
+        - Liana
+        - Ines
+        - Sara
+        - Lucy
 - Cadeau Parents
     * Peche Veltava
     * Relais chateaux
@@ -11,7 +22,7 @@
     - Cuisine
     - Rangements bordel
     - Chambre bebe
-    - Chanbre parents
+    - Chambre parents
 - Cadeaux Noel
     - Noam
     - Babi
@@ -23,7 +34,7 @@
     - David
     - Eva
     - Lea
-        X Memoro
+        * Memoro
         * Pot pipi
         * DVD
         * peinture + tablier
