@@ -1,4 +1,4 @@
-- [Steam Dev days] Getting Started with Linux Game Development : https://www.youtube.com/watch?v=Sd8ie5R4CVE
+- [x] Getting Started with Linux Game Development : https://www.youtube.com/watch?v=Sd8ie5R4CVE
     * Use SDL2
         * inputs
         * window management
@@ -39,7 +39,7 @@
         * rad telemetry
         * ApiTrace
         * Zoom
-- Porting Games To Linux: https://www.youtube.com/watch?v=d8kfva6G0c4
+- [x] Porting Games To Linux: https://www.youtube.com/watch?v=d8kfva6G0c4
     * Steam Runtime: bunch of ubuntu libraries Steam is distributing
     * Bundle dependencies
     * Nice DAG of his port workflow but similar to what I have already heard
@@ -48,9 +48,7 @@
         * Get locales
         * Use XDG for application config files
     * Linters: CppCheck
-- [Steam Dev days] Game Development with SDL 2.0: https://www.youtube.com/watch?v=MeMPCSqQ-34
-- [Steam Dev days] Getting Started Debugging on Linux : https://www.youtube.com/watch?v=xTmAknUbpB0
-- [Steamworks Development] https://www.youtube.com/user/SteamworksDev
-    * To investigate available videos
-- [Steamworks Development] Building Unity Games for SteamOS/Linux: https://www.youtube.com/watch?v=WYdOQ_k6YvI
-- [VS2017] Linux development with C++: https://www.youtube.com/watch?v=XIiFuBczd6A & https://www.youtube.com/watch?v=4NenIuAbtGs
+- [ ] Game Development with SDL 2.0: https://www.youtube.com/watch?v=MeMPCSqQ-34
+- [ ] Getting Started Debugging on Linux : https://www.youtube.com/watch?v=xTmAknUbpB0
+- [ ] Building Unity Games for SteamOS/Linux: https://www.youtube.com/watch?v=WYdOQ_k6YvI
+- [ ] Linux development with C++: https://www.youtube.com/watch?v=XIiFuBczd6A & https://www.youtube.com/watch?v=4NenIuAbtGs
