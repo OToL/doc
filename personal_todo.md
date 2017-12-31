@@ -4,6 +4,7 @@
         - Maya
         - Laura
         - Elena
+        - Mia
 - Cadeau Parents
     * Peche Vltava
 - Rangements sous les escaliers
