@@ -3,11 +3,8 @@
     - Prenom
         - Maya
         - Laura
-        - Leonie
         - Elena
-        - Nina
-        - Liana
-        - Ines
+        - Mia
 - Cadeau Parents
     * Peche Vltava
 - Rangements sous les escaliers
