@@ -17,5 +17,6 @@
         - Remote file system for consoles which is also taking care of data compilation
         - Plugin system with C like interface similar to "Hot DLL reloading"
     2. Memory
-- Data oriented design indexing: https://github.com/dbartolini/data-oriented-design
+- [ ] Data oriented design indexing: https://github.com/dbartolini/data-oriented-design
 - [ ] Data oriented design: http://www.dataorienteddesign.com/dodmain/node1.html
+- [ ] A transformative approach to game engine development: https://www.youtube.com/watch?v=FXKEiFUXBIo&t=1490s
