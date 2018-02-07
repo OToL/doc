@@ -1,2 +1,5 @@
-- [ ] https://github.com/fenbf/AwesomePerfCpp
-- [ ] https://www.youtube.com/watch?v=DxP--1yEgKQ
+- Indexing of interesting performance/profiling related blogs, videos and articles: https://github.com/fenbf/AwesomePerfCpp
+- [x] https://www.youtube.com/watch?v=DxP--1yEgKQ
+  - Flame graph seems useful and supported by many profilers as data post process
+  - Good online tool to do micro benchmark: http://quick-bench.com/
+  - When benchmarking code (multiple execution) do not always consider min/max/average execution time but also the variance/deviation
