@@ -4,3 +4,4 @@
   - Good online tool to do micro benchmark: http://quick-bench.com/
   - When benchmarking code (multiple execution) do not always consider min/max/average execution time but also the variance/deviation
 - [ ] RIOT - PROFILING MEASUREMENT AND ANALYSIS: https://engineering.riotgames.com/news/profiling-measurement-and-analysis
+- [ ] Pitfalls of Object Oriented Programming: https://drive.google.com/open?id=1SbmKU0Ev9UjyIpNMOQu7aEMhZBifZkw6
