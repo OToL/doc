@@ -3,5 +3,7 @@
   - Flame graph seems useful and supported by many profilers as data post process
   - Good online tool to do micro benchmark: http://quick-bench.com/
   - When benchmarking code (multiple execution) do not always consider min/max/average execution time but also the variance/deviation
-- [ ] RIOT - PROFILING MEASUREMENT AND ANALYSIS: https://engineering.riotgames.com/news/profiling-measurement-and-analysis
+- [X] RIOT - PROFILING MEASUREMENT AND ANALYSIS: https://engineering.riotgames.com/news/profiling-measurement-and-analysis
+  - Good presentation of the profiling methodology
+  - Good visualization of cache relative speed
 - [ ] Pitfalls of Object Oriented Programming: https://drive.google.com/open?id=1SbmKU0Ev9UjyIpNMOQu7aEMhZBifZkw6
