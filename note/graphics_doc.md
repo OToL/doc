@@ -1,6 +1,8 @@
 - [x] Thoughts on Skinning and LDS: https://turanszkij.wordpress.com/2018/02/03/thoughts-on-skinning-and-lds/
     - Put all bones information into LDS before triggering skinning shader instances
     - Interesting explanation about CU x shader x threads
-- [ ] Breaking down barrieers: https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/
-    - Good high level explanation of barrieer concept
+- [x] Breaking down barriers: https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/
+    - Good barrieer concept vulgarization i.e. real life -> cpu -> gpu
+    - Barriers are not only about synchronizing thread of executions (Draw Call A must be finish before B starts) but also data flow i.e. cache flush, RT internal compression, etc.
+    - Since it is very HW specific D3D12 and Vulkan have chosen to use the concept of resource states which implicitely synchronize threads and data (cache, etc.)
 - [ ] Optimizing GPU occupancy https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
