@@ -1,4 +1,5 @@
 - [x] Thoughts on Skinning and LDS: https://turanszkij.wordpress.com/2018/02/03/thoughts-on-skinning-and-lds/
     - Put all bones information into LDS before triggering skinning shader instances
     - Interesting explanation about CU x shader x threads
+- [ ] BREAKING DOWN BARRIERS: https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/
 - [ ] Optimizing GPU occupancy https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
