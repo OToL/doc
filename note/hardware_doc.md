@@ -1,1 +1,2 @@
 - [ ] Cache coherency primer: https://fgiesen.wordpress.com/2014/07/07/cache-coherency/
+- [ ] GCN architecture: https://www.amd.com/Documents/GCN_Architecture_whitepaper.pdf
