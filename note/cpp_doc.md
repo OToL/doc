@@ -4,4 +4,5 @@
   - xvalue: lvalue which can moved
   - gvalue: lvalue + xvalue
   - rvalue: xvalue + prvalue
-  
+- [x] Counting bits: https://lemire.me/blog/2018/02/21/iterating-over-set-bits-quickly/
+  - Use on one complement (bitset & -bitset) property to implement fast trailing 0 count
