@@ -1,9 +1,14 @@
 - Indexing of interesting performance/profiling related blogs, videos and articles: https://github.com/fenbf/AwesomePerfCpp
-- [x] https://www.youtube.com/watch?v=DxP--1yEgKQ
+- [X] https://www.youtube.com/watch?v=DxP--1yEgKQ
   - Flame graph seems useful and supported by many profilers as data post process
   - Good online tool to do micro benchmark: http://quick-bench.com/
   - When benchmarking code (multiple execution) do not always consider min/max/average execution time but also the variance/deviation
-- [X] RIOT - PROFILING MEASUREMENT AND ANALYSIS: https://engineering.riotgames.com/news/profiling-measurement-and-analysis
+- [ ]Performance Profiling: https://medium.com/@jcowles/performance-profiling-d5f44b4b6f33
+  - It is important to choose the good profiling metrics (e.g. number of dropped frames) i.e. What am I trying to optimize?
+  - Always measure every single progress i.e. for each optimization, measure and document the relative improvement (keep all traces, graphs, etc.)
+  - Find a graphical way to express your improvements in order to easily communicate them
+- [X] RIOT Games - Profiling measurement and analysis: https://engineering.riotgames.com/news/profiling-measurement-and-analysis
   - Good presentation of the profiling methodology
   - Good visualization of cache relative speed
+- [ ] RIOT Games - Profiling & optimization: https://engineering.riotgames.com/news/profiling-optimisation
 - [ ] Pitfalls of Object Oriented Programming: https://drive.google.com/open?id=1SbmKU0Ev9UjyIpNMOQu7aEMhZBifZkw6
