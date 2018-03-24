@@ -5,4 +5,10 @@
     - Good barrieer concept vulgarization i.e. real life -> cpu -> gpu
     - Barriers are not only about synchronizing thread of executions (Draw Call A must be finish before B starts) but also data flow i.e. cache flush, RT internal compression, etc.
     - Since it is very HW specific D3D12 and Vulkan have chosen to use the concept of resource states which implicitely synchronize threads and data (cache, etc.)
-- [ ] Optimizing GPU occupancy https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
+- [X] Octahedral Impostors: http://shaderbits.com/blog/octahedral-impostors
+    - Very nice tree imposters technique based on multiple baked views around the model using a octahedral
+    - Octahedral is better than a spehere because the vertices repartition is uniform
+    - A half-octahedral is often sufficient because we don't care about object's bottom
+    - This article also explain cheaper and less accurate techniques such as simple card boards with parallax
+- [ ] Real-time Realistic Rendering and Lighting of Forests: https://hal.inria.fr/hal-00650120/file/article.pdf
+- [ ] Optimizing GPU occupancy: https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
