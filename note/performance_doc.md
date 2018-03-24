@@ -3,8 +3,10 @@
   - Flame graph seems useful and supported by many profilers as data post process
   - Good online tool to do micro benchmark: http://quick-bench.com/
   - When benchmarking code (multiple execution) do not always consider min/max/average execution time but also the variance/deviation
-- [ ]Performance Profiling: https://medium.com/@jcowles/performance-profiling-d5f44b4b6f33
-  - It is important to choose the good profiling metrics (e.g. number of dropped frames) i.e. What am I trying to optimize?
+- [X] Performance Profiling: https://medium.com/@jcowles/performance-profiling-d5f44b4b6f33
+  - It is important to choose the good profiling metrics (e.g. number of dropped frames) i.e. What do I have to optimize? and How to measure it reliably?
+  - Both micro (only the problematic code is executed) and synthetic (re-create artificially game conditions) benchmarks are important
+  - Maximize the reproduceability of the issue e.g. if the issue occurs when spawning an entity, we should try doing it every frame
   - Always measure every single progress i.e. for each optimization, measure and document the relative improvement (keep all traces, graphs, etc.)
   - Find a graphical way to express your improvements in order to easily communicate them
 - [X] RIOT Games - Profiling measurement and analysis: https://engineering.riotgames.com/news/profiling-measurement-and-analysis
