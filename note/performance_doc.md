@@ -1,4 +1,4 @@
-- Indexing of interesting performance/profiling related blogs, videos and articles: https://github.com/fenbf/AwesomePerfCpp
+- Index of interesting performance/profiling related blogs, videos and articles: https://github.com/fenbf/AwesomePerfCpp
 - [X] https://www.youtube.com/watch?v=DxP--1yEgKQ
   - Flame graph seems useful and supported by many profilers as data post process
   - Good online tool to do micro benchmark: http://quick-bench.com/
