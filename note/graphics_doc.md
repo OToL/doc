@@ -10,5 +10,7 @@
     - Octahedral is better than a spehere because the vertices repartition is uniform
     - A half-octahedral is often sufficient because we don't care about object's bottom
     - This article also explain cheaper and less accurate techniques such as simple card boards with parallax
+- [X] Daily Pathtracer: http://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-1-Initial-C--/
+    - Basic approach but interesting for people who does not know about it
 - [ ] Real-time Realistic Rendering and Lighting of Forests: https://hal.inria.fr/hal-00650120/file/article.pdf
 - [ ] Optimizing GPU occupancy: https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
