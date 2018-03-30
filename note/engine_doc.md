@@ -9,6 +9,7 @@
         1. Load new DLL
         2. Copy data between old and new
         3. Unload old DLL
+- [ ] Job System enkiTS: https://github.com/dougbinks/enkiTS
 - [ ] How to Open a Black Box: https://www.youtube.com/watch?v=SYomOZIfeoU
 - [ ] Compilation time: http://ourmachinery.com/post/physical-design/
 - [ ] Stingray engine walkthrough: https://www.youtube.com/watch?v=LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV
