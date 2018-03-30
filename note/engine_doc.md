@@ -9,6 +9,15 @@
         1. Load new DLL
         2. Copy data between old and new
         3. Unload old DLL
+- [x] Unity at GDC: https://www.twitch.tv/videos/242024723?t=
+    - Very interesting concrete examples of Entity Component System where data and transformation matters
+    - Data is stored at a very small granularity (list of floats, vector, etc.)
+    - Entity is not a container but just an ID indexing associated components data in the different data
+    - The System starts by gathering the streaming of data based on the entities' component types and then transform the result
+    - Explains how to handle dependency between entity (Parent --> children) by doing some pre-processing to identity the dependencies before doing the actual transformation
+    - They have their own C# compiler handling a subset of the language : High Performance C# aka HPC#
+    - Good aliasing examples
+    - Transparent SAO native array very similar to Jonathan blow language
 - [ ] Job System enkiTS: https://github.com/dougbinks/enkiTS
 - [ ] How to Open a Black Box: https://www.youtube.com/watch?v=SYomOZIfeoU
 - [ ] Compilation time: http://ourmachinery.com/post/physical-design/
