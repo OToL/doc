@@ -7,6 +7,10 @@
         - Barriers are not only about synchronizing thread of executions (Draw Call A must be finish before B starts) but also data flow i.e. cache flush, RT internal compression, etc.
         - Since it is very HW specific D3D12 and Vulkan have chosen to use the concept of resource states which implicitely synchronize threads and data (cache, etc.)
     - Part 2: https://mynameismjp.wordpress.com/2018/04/01/breaking-down-barriers-part-2-synchronizing-gpu-threads/
+        - Barriers are reducing core(s) occupancy because the dispatches are not executed in parallel and the one in progress may no use all cores: "the performance cost of a flush is directly tied to the decrease in utilization"
+        - We can improve core occupancy by interleaving dependent dispatches with independent ones
+        - FLUSH command granularity is coarse i.e. it waiting for all previously issued dispatch to be finished
+        - We can have much finer grain control with Labels
 - [X] Octahedral Impostors: http://shaderbits.com/blog/octahedral-impostors
     - Very nice tree imposters technique based on multiple baked views around the model using a octahedral
     - Octahedral is better than a spehere because the vertices repartition is uniform
