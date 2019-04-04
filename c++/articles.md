@@ -1,0 +1,8 @@
+- [x] lvalues, rvalues, glvalues, prvalues, xvalues: https://blog.knatten.org/2018/03/09/lvalues-rvalues-glvalues-prvalues-xvalues-help/
+  - prvalues (pure rvalue): no identity and moveable
+  - lvalue: identity and cannot be moved
+  - xvalue: lvalue which can moved
+  - gvalue: lvalue + xvalue
+  - rvalue: xvalue + prvalue
+- [x] Counting bits: https://lemire.me/blog/2018/02/21/iterating-over-set-bits-quickly/
+  - Use on one complement (bitset & -bitset) property to implement fast set bit iteration
