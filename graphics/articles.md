@@ -21,3 +21,4 @@
 - [ ] Real-time Realistic Rendering and Lighting of Forests: https://hal.inria.fr/hal-00650120/file/article.pdf
 - [ ] Optimizing GPU occupancy: https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
 - [ ] GPU architectures: https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view
+- [ ] Model View Projection : https://jsantell.com/model-view-projection
