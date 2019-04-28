@@ -1,8 +1,9 @@
-# OPERATING SYSTEM UTILITIES
+# WINDOWS UTILITIES
 
-- [WINDOWS] WinDirStat (https://windirstat.net/)
-- [WINDOWS] Lock Hunter (https://lockhunter.com/download.htm)
-- [WINDOWS] ConEmu (https://conemu.github.io/)
+- WinDirStat (https://windirstat.net/)
+- Lock Hunter (https://lockhunter.com/download.htm)
+- ConEmu (https://conemu.github.io/)
+- Rufus (https://rufus.ie/): bootable usb creator
 
 # Development
 
