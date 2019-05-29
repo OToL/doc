@@ -6,3 +6,5 @@
   - rvalue: xvalue + prvalue
 - [x] Counting bits: https://lemire.me/blog/2018/02/21/iterating-over-set-bits-quickly/
   - Use on one complement (bitset & -bitset) property to implement fast set bit iteration
+- [] Beating up on qsort (for integers): https://travisdowns.github.io/blog/2019/05/22/sorting.html
+  - Use radix sort as well as some common low level optimizations (e.g. avoid memory allocations, prefetch, etc.) to beat generic STL sort
