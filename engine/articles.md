@@ -107,3 +107,7 @@
   - Good visualization of cache relative speed
 - [ ] RIOT Games - Profiling & optimization: https://engineering.riotgames.com/news/profiling-optimisation
 - [ ] Pitfalls of Object Oriented Programming: https://drive.google.com/open?id=1SbmKU0Ev9UjyIpNMOQu7aEMhZBifZkw6
+
+# PHYSICS & SIMULATION
+
+- [] Water erosion on heightmap terrain - http://ranmantaru.com/blog/2011/10/08/water-erosion-on-heightmap-terrain/
