@@ -1,11 +1,11 @@
-# WINDOWS UTILITIES
+# UTILITIES
 
-- WinDirStat (https://windirstat.net/)
-- Lock Hunter (https://lockhunter.com/download.htm)
-- ConEmu (https://conemu.github.io/)
-- Rufus (https://rufus.ie/): bootable usb creator
+- [WIN] WinDirStat (https://windirstat.net/)
+- [WIN] Lock Hunter (https://lockhunter.com/download.htm)
+- [WIN] ConEmu (https://conemu.github.io/)
+- [WIN] Rufus (https://rufus.ie/): bootable usb creator
 
-# Development
+# DEVELOPMENT
 
 - VSCode (https://code.visualstudio.com/download)
 - Python (https://www.python.org/downloads/)
@@ -14,5 +14,5 @@
 
 # PROFILING
 
-- [WINDOWS] UI for ETW (https://github.com/google/UIforETW/releases)
+- [WIN] UI for ETW (https://github.com/google/UIforETW/releases)
 - Chrome tracing (chrome://tracing)
