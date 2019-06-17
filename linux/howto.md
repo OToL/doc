@@ -48,3 +48,13 @@
 # INVESTIGATE RESOURCES USAGE
 
 - 'top' command displays current processes resource usage
+
+# CHANGE DEFAULT PROGRAM
+
+sudo update-alternatives --config c++
+
+# PACKAGE MANAGEMENT
+
+- Update linux ubuntu packages
+    > sudo apt-get update
+    > sudo apt-get full-upgrade
