@@ -109,5 +109,5 @@
 - [ ] Pitfalls of Object Oriented Programming: https://drive.google.com/open?id=1SbmKU0Ev9UjyIpNMOQu7aEMhZBifZkw6
 
 # PHYSICS & SIMULATION
-- [] implementation of a methode for hydraulic erosion - https://github.com/OToL/doc/blob/master/engine/implementation%20of%20a%20methode%20for%20hydraulic%20erosion.pdf
-- [] Water erosion on heightmap terrain - http://ranmantaru.com/blog/2011/10/08/water-erosion-on-heightmap-terrain/
+- [] implementation of a methode for hydraulic erosion: https://github.com/OToL/doc/blob/master/engine/implementation%20of%20a%20methode%20for%20hydraulic%20erosion.pdf
+- [] Water erosion on heightmap terrain: http://ranmantaru.com/blog/2011/10/08/water-erosion-on-heightmap-terrain/
