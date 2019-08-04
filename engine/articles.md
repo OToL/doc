@@ -71,15 +71,16 @@
     - Good aliasing examples
     - Transparent SAO native array very similar to Jonathan blow language
 - [ ] Job System enkiTS: https://github.com/dougbinks/enkiTS
+- [ ] Parallelizing the Naughty Dog engine using fibers: http://twvideo01.ubm-us.net/o1/vault/gdc2015/presentations/Gyrling_Christian_Parallelizing_The_Naughty.pdf
 - [ ] How to Open a Black Box: https://www.youtube.com/watch?v=SYomOZIfeoU
 - [ ] Compilation time: http://ourmachinery.com/post/physical-design/
+- [ ] Our Machinery - Fiber based job system: https://ourmachinery.com/post/fiber-based-job-system/
 - [ ] Stingray engine walkthrough: https://www.youtube.com/watch?v=LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV
-    1. Overview
-        - Good pillars
+    - Part 1: Overview
+        - Good/simple pillars
         - Interesting packaging system to download all dependencies using S3
         - Remote file system for consoles which is also taking care of data compilation
         - Plugin system with C like interface similar to "Hot DLL reloading"
-    2. Memory
 - [ ] Data oriented design indexing: https://github.com/dbartolini/data-oriented-design
 - [ ] Data oriented design: http://www.dataorienteddesign.com/dodmain/node1.html
 - [ ] A transformative approach to game engine development: https://www.youtube.com/watch?v=FXKEiFUXBIo&t=1490s
