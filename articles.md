@@ -1,3 +1,69 @@
+# MEMORY
+
+- [] rpmalloc: https://stoyannk.wordpress.com/2018/01/10/generic-memory-allocator-for-c-part-3/
+
+# MATH
+
+- [ ] immersive linear algebra : http://immersivemath.com/ila/index.html
+- [ ] Model View Projection : https://jsantell.com/model-view-projection
+
+# LINUX GAMEDEV
+
+- [x] Getting Started with Linux Game Development : https://www.youtube.com/watch?v=Sd8ie5R4CVE
+    * Use SDL2
+        * inputs
+        * window management
+        * atomics
+        * performance counter
+        * threads
+    * Use OpenGL
+    * Compilers: Clang, GCC & Intel C++
+        * Clang faster to compile
+        * GCC produce faster code
+    * Parse Visual Studio solutions to generate makefiles, scons, etc.
+    * MAKE THINGS COMPILE i.e. LINKAGE and RUNNING later
+        * Stub all what you can and tag it to find it easily e.g.
+            #define STUBED which is printf it is a stub once
+        * Do not try to make things look better or refactoring
+          If you start cleaning & refactoring it makes merge back more complicated
+    * Shipping with Steam (Steam Runtime) ensure some dependenciees are there
+    * FileSystem Pitfalls --> WILL BE VERY PAINFUL FOR COMPILING THE CODE i.e. include paths
+        * Paths are /
+        * No drive letter (e.g. e:/)
+        * User permissions --> have an impact on game saves & config locations
+          e.g. write to home or steam user directory
+        * Paths are UTF-8
+        * Case sensitive
+    * IDE
+        * QTCreator
+        * Eclipse
+        * Sublime Text
+    * Debug
+        * GDB 7 -> includes slow but operational reverse debugging
+        * UndoDB -> includes reverse debugging but it is not free
+        * QTCreator
+        * Visual GDB: https://visualgdb.com/
+        * Valgrind
+        * LLVM Sanitizers
+    * Optimization: 
+        * perf
+        * rad telemetry
+        * ApiTrace
+        * Zoom
+- [x] Porting Games To Linux: https://www.youtube.com/watch?v=d8kfva6G0c4
+    * Steam Runtime: bunch of ubuntu libraries Steam is distributing
+    * Bundle dependencies
+    * Nice DAG of his port workflow but similar to what I have already heard
+    * Case sensitivity again
+    * Use platform best practices
+        * Get locales
+        * Use XDG for application config files
+    * Linters: CppCheck
+- [ ] Game Development with SDL 2.0: https://www.youtube.com/watch?v=MeMPCSqQ-34
+- [ ] Getting Started Debugging on Linux : https://www.youtube.com/watch?v=xTmAknUbpB0
+- [ ] Building Unity Games for SteamOS/Linux: https://www.youtube.com/watch?v=WYdOQ_k6YvI
+- [ ] Linux development with C++: https://www.youtube.com/watch?v=XIiFuBczd6A & https://www.youtube.com/watch?v=4NenIuAbtGs
+
 # CMAKE
 
 - [x] Effective CMake: https://www.youtube.com/watch?v=bsXLMQ6WgIk&t=4699s&pbjreload=10
@@ -115,3 +181,44 @@
 # PHYSICS & SIMULATION
 - [] implementation of a methode for hydraulic erosion: https://github.com/OToL/doc/blob/master/engine/implementation%20of%20a%20methode%20for%20hydraulic%20erosion.pdf
 - [] Water erosion on heightmap terrain: http://ranmantaru.com/blog/2011/10/08/water-erosion-on-heightmap-terrain/
+
+# C++
+
+- [x] lvalues, rvalues, glvalues, prvalues, xvalues: https://blog.knatten.org/2018/03/09/lvalues-rvalues-glvalues-prvalues-xvalues-help/
+  - prvalues (pure rvalue): no identity and moveable
+  - lvalue: identity and cannot be moved
+  - xvalue: lvalue which can moved
+  - gvalue: lvalue + xvalue
+  - rvalue: xvalue + prvalue
+- [x] Counting bits: https://lemire.me/blog/2018/02/21/iterating-over-set-bits-quickly/
+  - Use on one complement (bitset & -bitset) property to implement fast set bit iteration
+- [x] Beating up on qsort (for integers): https://travisdowns.github.io/blog/2019/05/22/sorting.html
+  - Use radix sort as well as some common low level optimizations (e.g. avoid memory allocations, prefetch, etc.) to beat generic STL sort
+
+
+# GRAPHICS
+
+- [x] Thoughts on Skinning and LDS: https://turanszkij.wordpress.com/2018/02/03/thoughts-on-skinning-and-lds/
+    - Put all bones information into LDS before triggering skinning shader instances
+    - Interesting explanation about CU x shader x threads
+- [x] Breaking down barriers
+    - Part 1: https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/
+        - Good barrieer concept vulgarization i.e. real life -> cpu -> gpu
+        - Barriers are not only about synchronizing thread of executions (Draw Call A must be finish before B starts) but also data flow i.e. cache flush, RT internal compression, etc.
+        - Since it is very HW specific D3D12 and Vulkan have chosen to use the concept of resource states which implicitely synchronize threads and data (cache, etc.)
+    - Part 2: https://mynameismjp.wordpress.com/2018/04/01/breaking-down-barriers-part-2-synchronizing-gpu-threads/
+        - Barriers are reducing core(s) occupancy because the dispatches are not executed in parallel and the one in progress may no use all cores: "the performance cost of a flush is directly tied to the decrease in utilization"
+        - We can improve core occupancy by interleaving dependent dispatches with independent ones
+        - FLUSH command granularity is coarse i.e. it waiting for all previously issued dispatch to be finished
+        - We can have much finer grain control with fences/labels
+- [X] Octahedral Impostors: http://shaderbits.com/blog/octahedral-impostors
+    - Very nice tree imposters technique based on multiple baked views around the model using a octahedral
+    - Octahedral is better than a spehere because the vertices repartition is uniform
+    - A half-octahedral is often sufficient because we don't care about object's bottom
+    - This article also explain cheaper and less accurate techniques such as simple card boards with parallax
+- [X] Daily Pathtracer: http://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-1-Initial-C--/
+    - Basic approach but interesting for people who does not know about it
+- [ ] Real-time Realistic Rendering and Lighting of Forests: https://hal.inria.fr/hal-00650120/file/article.pdf
+- [ ] Optimizing GPU occupancy: https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
+- [x] GPU architectures: https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view
+    - Very good overview of GPU architecture with exemples From NVidia and AMD

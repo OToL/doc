@@ -1,2 +1,0 @@
-- [ ] immersive linear algebra : http://immersivemath.com/ila/index.html
-- [ ] Model View Projection : https://jsantell.com/model-view-projection
