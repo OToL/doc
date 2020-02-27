@@ -112,7 +112,7 @@
 
 # COMPILER
 
-- [] https://lwn.net/Articles/276782/
+- [] Linker essay: https://lwn.net/Articles/276782/
 
 # ENGINE ARCHITECTURE
 
@@ -150,7 +150,6 @@
 
 # DATA STRUCTURES AND TRANSFORMATION
 
-- [ ] Data oriented design indexing: https://github.com/dbartolini/data-oriented-design
 - [ ] A transformative approach to game engine development: https://www.youtube.com/watch?v=FXKEiFUXBIo&t=1490s
 - [ ] Data-Oriented Design http://www.dataorienteddesign.com/dodbook/
 
@@ -161,7 +160,6 @@
 
 # PERFORMANCE
 
-- Index of interesting performance/profiling related blogs, videos and articles: https://github.com/fenbf/AwesomePerfCpp
 - [X] https://www.youtube.com/watch?v=DxP--1yEgKQ
   - Flame graph seems useful and supported by many profilers as data post process
   - Good online tool to do micro benchmark: http://quick-bench.com/
