@@ -116,6 +116,31 @@
 
 # ENGINE ARCHITECTURE
 
+- [] Writing Tools Faster: https://ourmachinery.com/writing-tools-faster.html
+   - Tried different approach for Tools UI
+      - WinForm: fast but ugly/hacky
+      - WPF: nice looking but the entry barrier is high (c#, wpf, etc.) and windows specific
+      - Web: a lot of expertise but the stack of components involved is deep (JS, REST, HTML, etc.) and impacts performance
+   - Engine implementation is much faster that the Tools UI i.e. Tools is a bottleneck
+   - Tools software stack is a common issue whatever you are using (e.g. WPF/C#Model/C++ManagedBridge/Engine) which is causing ...
+      - Team friction       
+      - Delay in delivering features or fixes to the users
+      - Perf issues
+      - The knowledge to be restricted to few people
+   - Well-defined universal data representation (aka the Truth) with well defined operations (copy/paste, undo/redo, etc.)
+   - The Truth format is basically json i.e. key/value
+   - The Truth supports ...
+      - Multi-threading: 2 steps ... get the copy of the data to modify and then commit the result
+      - Operations (undo/redo, etc.)
+      - Internal (owned) and external reference
+      - Inheritance + value override (i.e. blueprint)
+      - Live collaboration i.e. delta + send
+   - Truth cons
+      - key/value format does not work for everything e.g. graphics data (vertex buffer, etc.)
+      - Looks like a big singleton
+   - Use imgui
+   - UI Rendering = 1 draw call
+   - Actually, they have 1 vertex/primite buffer and multiple index buffers to handle overlays (e.g. pop-ups)
 - [x] Hot DLL reloading: http://ourmachinery.com/post/dll-hot-reloading-in-theory-and-practice/
     - Plugin code hot reload
     - Simple C like interface i.e.
@@ -127,6 +152,7 @@
         1. Load new DLL
         2. Copy data between old and new
         3. Unload old DLL
+   - Immediate UI is good for debugging and understanding performance issues
 - [x] Unity at GDC: https://www.twitch.tv/videos/242024723?t=
     - Very interesting concrete examples of Entity Component System where data and transformation matters
     - Data is stored at a very small granularity (list of floats, vector, etc.)
