@@ -116,7 +116,7 @@
 
 # ENGINE ARCHITECTURE
 
-- [] Writing Tools Faster: https://ourmachinery.com/writing-tools-faster.html
+- [x] Writing Tools Faster: https://ourmachinery.com/writing-tools-faster.html
    - Tried different approach for Tools UI
       - WinForm: fast but ugly/hacky
       - WPF: nice looking but the entry barrier is high (c#, wpf, etc.) and windows specific
@@ -141,6 +141,7 @@
    - Use imgui
    - UI Rendering = 1 draw call
    - Actually, they have 1 vertex/primite buffer and multiple index buffers to handle overlays (e.g. pop-ups)
+   - Immediate GUI cannot handle everything out of the box but it can be solved by retaining some state
 - [x] Hot DLL reloading: http://ourmachinery.com/post/dll-hot-reloading-in-theory-and-practice/
     - Plugin code hot reload
     - Simple C like interface i.e.
