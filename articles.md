@@ -66,6 +66,7 @@
 
 # CMAKE
 
+- [] An Introduction to Modern CMake : https://cliutils.gitlab.io/modern-cmake/
 - [x] Effective CMake: https://www.youtube.com/watch?v=bsXLMQ6WgIk&t=4699s&pbjreload=10
     - Execute a CMake file as a script i.e. does not generate build files
         ```
