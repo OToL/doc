@@ -11,6 +11,7 @@
 - Python (https://www.python.org/downloads/)
 - CMake (https://cmake.org/)
 - Github Desktop (https://github.com/)
+- Whatstyle (https://github.com/mikr/whatstyle)
 
 # PROFILING
 
