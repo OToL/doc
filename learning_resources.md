@@ -1,7 +1,8 @@
 # CODE DEPOTS
 
-- MTuner: https://github.com/milostosic/MTuner
-- OrbitProfiler: https://github.com/pierricgimmig/orbitprofiler
+- Memory Profiler - MTuner: https://github.com/milostosic/MTuner
+- Performance Profiler - OrbitProfiler: https://github.com/pierricgimmig/orbitprofiler
+- Math Library: https://github.com/EricLengyel/Terathon-Math-Library
 
 # BLOGS
 
