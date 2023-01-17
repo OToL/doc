@@ -1,4 +1,4 @@
-- Advent of code 2022 C++
+[ ] Advent of code 2022 C++
 - Unreal Engine or Blender + Deep learning
 - Read Data structure and Algorithms resources
 - r/place sandbox
