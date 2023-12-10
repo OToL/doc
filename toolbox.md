@@ -13,6 +13,15 @@
 - Github Desktop (https://github.com/)
 - Whatstyle (https://github.com/mikr/whatstyle)
 
+# SYSTEM
+
+- Katai Struct (https://kaitai.io) : suit of tools to define binary formats using DSL
+- vbindiff (https://www.cjmweb.net/vbindiff/): binary diff tool
+
+# IT
+
+- Test Disk (https://www.cgsecurity.org/wiki/TestDisk#google_vignette): Investigate & recover system image
+
 # PROFILING
 
 - [WIN] UI for ETW (https://github.com/google/UIforETW/releases)
