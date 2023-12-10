@@ -1,9 +1,10 @@
-# UTILITIES
+# UTILITIES / IT
 
 - [WIN] WinDirStat (https://windirstat.net/)
 - [WIN] Lock Hunter (https://lockhunter.com/download.htm)
 - [WIN] ConEmu (https://conemu.github.io/)
 - [WIN] Rufus (https://rufus.ie/): bootable usb creator
+- Test Disk (https://www.cgsecurity.org/wiki/TestDisk#google_vignette): Investigate & recover system image
 
 # DEVELOPMENT
 
@@ -18,11 +19,13 @@
 - Katai Struct (https://kaitai.io) : suit of tools to define/load/save/explore binary formats using DSL
 - vbindiff (https://www.cjmweb.net/vbindiff/): binary diff tool
 
-# IT
-
-- Test Disk (https://www.cgsecurity.org/wiki/TestDisk#google_vignette): Investigate & recover system image
-
 # PROFILING
+
+## PERFORMANCE
 
 - [WIN] UI for ETW (https://github.com/google/UIforETW/releases)
 - Chrome tracing (chrome://tracing)
+
+## MEMORY
+
+- [WIN] MTUNER (https://github.com/RudjiGames/MTuner): memory profiler
