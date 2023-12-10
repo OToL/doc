@@ -15,7 +15,7 @@
 
 # SYSTEM
 
-- Katai Struct (https://kaitai.io) : suit of tools to define binary formats using DSL
+- Katai Struct (https://kaitai.io) : suit of tools to define/load/save/explore binary formats using DSL
 - vbindiff (https://www.cjmweb.net/vbindiff/): binary diff tool
 
 # IT
