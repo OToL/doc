@@ -1,3 +1,6 @@
+# PROJECTS
+- NVIDIA Omniverse: https://www.nvidia.com/en-us/omniverse/usd/
+
 # CODE DEPOTS
 
 - Memory Profiler - MTuner: https://github.com/milostosic/MTuner
