@@ -16,7 +16,7 @@
 - [PERF] Null program: https://nullprogram.com/
 - [PERF] The ryg blog: https://fgiesen.wordpress.com/
 
-# REFERENCES
+# RESOURCES INDEXING
 
 - Performance/profiling related blogs, videos and articles: https://github.com/fenbf/AwesomePerfCpp
 - Data oriented design resources: https://github.com/dbartolini/data-oriented-design
