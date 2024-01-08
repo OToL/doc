@@ -4,7 +4,7 @@
 - https://jalammar.github.io/illustrated-transformer/
 - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - https://www.linkedin.com/pulse/transformers-nutshell-dave-burke-l5t0c/
-- https://www.youtube.com/watch?v=UNmqTiOnRfg
+- A friendly introduction to Recurrent Neural Networks - https://www.youtube.com/watch?v=UNmqTiOnRfg
 
 # MEMORY
 
