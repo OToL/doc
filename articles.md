@@ -8,6 +8,7 @@
     - A friendly introduction to Recurrent Neural Networks - https://www.youtube.com/watch?v=UNmqTiOnRfg
 - Attention is all what you need:https://arxiv.org/pdf/1706.03762.pdf
     - https://www.youtube.com/watch?v=bCz4OMemCcA
+- Intro to large language models: https://www.youtube.com/watch?v=zjkBMFhNj_g&t=4s
 
 # MEMORY
 
