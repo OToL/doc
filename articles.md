@@ -1,3 +1,10 @@
+# AI
+- https://github.com/mlabonne/llm-course
+- https://www.linkedin.com/pulse/getting-started-llms-guide-resources-opportunities-wendy-ran-wei/
+- https://jalammar.github.io/illustrated-transformer/
+- https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+- https://www.linkedin.com/pulse/transformers-nutshell-dave-burke-l5t0c/
+
 # MEMORY
 
 - [] rpmalloc: https://stoyannk.wordpress.com/2018/01/10/generic-memory-allocator-for-c-part-3/
