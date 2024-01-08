@@ -6,6 +6,8 @@
 - https://www.linkedin.com/pulse/transformers-nutshell-dave-burke-l5t0c/
 - Friendly Introduction to Neural Network playlist: https://www.youtube.com/playlist?list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO
     - A friendly introduction to Recurrent Neural Networks - https://www.youtube.com/watch?v=UNmqTiOnRfg
+- Attention is all what you need:https://arxiv.org/pdf/1706.03762.pdf
+    - https://www.youtube.com/watch?v=bCz4OMemCcA
 
 # MEMORY
 
