@@ -9,6 +9,11 @@
 - Attention is all what you need:https://arxiv.org/pdf/1706.03762.pdf
     - https://www.youtube.com/watch?v=bCz4OMemCcA
 - Intro to large language models: https://www.youtube.com/watch?v=zjkBMFhNj_g&t=4s
+- AWS AI Master class:
+    - AI Masterclass Part 1: Why AI matters for the public sector: https://www.youtube.com/watch?v=zkEfOv5_2wY
+    - AI Masterclass Part 2: Getting started with AI for governments: https://www.youtube.com/watch?v=FG3fBQJ2o3c
+    - AI Masterclass Part 3: How to build your first AI solution: https://www.youtube.com/watch?v=_9LJmYN_YX4
+    - AI Masterclass Part 4: How to become an AI-driven organization: https://www.youtube.com/watch?v=WEW1qQHeys8
 
 # MEMORY
 
