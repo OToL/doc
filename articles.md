@@ -265,3 +265,5 @@
 - [ ] Optimizing GPU occupancy: https://gpuopen.com/optimizing-gpu-occupancy-resource-usage-large-thread-groups/
 - [x] GPU architectures: https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view
     - Very good overview of GPU architecture with exemples From NVidia and AMD
+- [] Low-Level Thinking in High-Level Shading Languages: https://www.humus.name/index.php?page=Articles&ID=6
+- [] Low-level Shader Optimization for Next-Gen and DX11: https://www.humus.name/index.php?page=Articles&ID=9
