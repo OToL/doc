@@ -267,3 +267,5 @@
     - Very good overview of GPU architecture with exemples From NVidia and AMD
 - [] Low-Level Thinking in High-Level Shading Languages: https://www.humus.name/index.php?page=Articles&ID=6
 - [] Low-level Shader Optimization for Next-Gen and DX11: https://www.humus.name/index.php?page=Articles&ID=9
+- [] Physically Based Shading Models for Film and Game Production: https://renderwonk.com/publications/s2010-shading-course/hoffman/s2010_physically_based_shading_hoffman_a.pdf
+- [] Hable John Uncharted2 Hdr Lighting: https://www.slideshare.net/ozlael/hable-john-uncharted2-hdr-lighting
