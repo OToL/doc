@@ -13,6 +13,8 @@
 - CMake (https://cmake.org/)
 - Github Desktop (https://github.com/)
 - Whatstyle (https://github.com/mikr/whatstyle)
+- RAD Debugger (https://github.com/EpicGames/raddebugger)
+- RemdedyDbg (https://remedybg.handmade.network/)
 
 # SYSTEM
 
