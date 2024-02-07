@@ -1,7 +1,7 @@
 # Projects
 
-[] Advent of code 2022 C++
-- Unreal Engine little game
+[x] Advent of code 2022 C++
+-  little game
 - Tool (Blender, UE, etc.) +  Deep learning (ChatGPT, stable diffusion)
 - Play around vector graphics
 - Play around curves
@@ -11,3 +11,5 @@
 - Learn higher level language (C#, JS, etc.)
 
 # Tech
+
+[ ] Unreal Engine
