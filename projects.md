@@ -1,4 +1,4 @@
-- Advent of code 2022 C++
+[*] Advent of code 2022 C++
 - Unreal Engine little game
 - Tool (Blender, UE, etc.) +  Deep learning (ChatGPT, stable diffusion)
 - Play around vector graphics
