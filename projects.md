@@ -1,15 +1,21 @@
 # Projects
 
 [x] Advent of code 2022 C++
--  little game
-- Tool (Blender, UE, etc.) +  Deep learning (ChatGPT, stable diffusion)
-- Play around vector graphics
-- Play around curves
-- Read Data structure and Algorithms resources
-- r/place sandbox
-- Advent of cod 2022 rust
-- Learn higher level language (C#, JS, etc.)
+[x] Snake with backend services (scores, users, replays, etc.)
+[ ] Reinforcement learning for simple game (e.g. Snake)
+[ ] Game Of Life (Rust vs Odin vs Zig)
+[ ] Advent of code 2023 Rust
+[ ] little game (TBD) using Unreal Engine
+[ ] Curve/Road editor (Bezier, etc.) using RayLib or Beevy
+[ ] Portal & Occlusion (http://c0de517e.com/011_portals.htm)
 
 # Tech
 
-[ ] Unreal Engine
+- Unreal Engine
+- Blender
+- Machine Learning & Neural Network
+- Data Structures and Algorithm
+- Rust
+- Java Script
+- C#
+- GPU compute
