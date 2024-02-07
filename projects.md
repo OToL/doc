@@ -1,7 +1,9 @@
 # Projects
 
 [x] Advent of code 2022 C++
+
 [x] Snake with backend services (scores, users, replays, etc.)
+
 [ ] Reinforcement learning for simple game (e.g. Snake)
 [ ] Game Of Life (Rust vs Odin vs Zig)
 [ ] Advent of code 2023 Rust
