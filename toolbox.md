@@ -29,6 +29,7 @@
 ## PERFORMANCE
 
 - UI for ETW (https://github.com/google/UIforETW/releases)
+- ETW Analyzer (https://github.com/Siemens-Healthineers/ETWAnalyzer)
 - Orbit (https://github.com/google/orbit)
 - Chrome tracing (chrome://tracing)
 - Remotery (https://github.com/Celtoys/Remotery)
