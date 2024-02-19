@@ -8,6 +8,7 @@
 - little game (TBD) using Unreal Engine
 - Curve/Road editor (Bezier, etc.) using RayLib or Beevy
 - Portal & Occlusion (http://c0de517e.com/011_portals.htm)
+- Signed Distance Field (SDF)
 
 ## Done
 
