@@ -6,7 +6,7 @@
 - [WIN] Rufus (https://rufus.ie/): bootable usb creator
 - Test Disk (https://www.cgsecurity.org/wiki/TestDisk#google_vignette): Investigate & recover system image
 
-# DEVELOPMENT
+# DEVELOPMENT TOOLS
 
 - VSCode (https://code.visualstudio.com/download)
 - Python (https://www.python.org/downloads/)
@@ -21,12 +21,14 @@
 - Katai Struct (https://kaitai.io) : suit of tools to define/load/save/explore binary formats using DSL
 - vbindiff (https://www.cjmweb.net/vbindiff/): binary diff tool
 - Binary Ninja (https://binary.ninja): binary file investigator
+- Toml configuration format (https://toml.io/en/)
+- Pkl configuration format (https://pkl-lang.org/index.html)
 
 # PROFILING
 
 ## PERFORMANCE
 
-- [WIN] UI for ETW (https://github.com/google/UIforETW/releases)
+- UI for ETW (https://github.com/google/UIforETW/releases)
 - Orbit (https://github.com/google/orbit)
 - Chrome tracing (chrome://tracing)
 - Remotery (https://github.com/Celtoys/Remotery)
