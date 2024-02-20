@@ -24,16 +24,16 @@
 - Toml configuration format (https://toml.io/en/)
 - Pkl configuration format (https://pkl-lang.org/index.html)
 
-# PROFILING
-
-## PERFORMANCE
+# PERFORMANCE PROFILING
 
 - UI for ETW (https://github.com/google/UIforETW/releases)
 - ETW Analyzer (https://github.com/Siemens-Healthineers/ETWAnalyzer)
 - Orbit (https://github.com/google/orbit)
 - Chrome tracing (chrome://tracing)
 - Remotery (https://github.com/Celtoys/Remotery)
+- Superluminal (https://superluminal.eu/)
+- Tracy (https://github.com/wolfpld/tracy)
 
-## MEMORY
+# MEMORY PROFILING
 
 - [WIN] MTUNER (https://github.com/RudjiGames/MTuner)
