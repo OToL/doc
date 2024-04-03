@@ -6,6 +6,11 @@
 - [WIN] Rufus (https://rufus.ie/): bootable usb creator
 - Test Disk (https://www.cgsecurity.org/wiki/TestDisk#google_vignette): Investigate & recover system image
 
+# VISUAL STUDIO PLUGINS
+
+- Disasmo (https://github.com/EgorBo/Disasmo/)
+- Nifty Perforce (https://github.com/jtilander/niftyplugins)
+
 # DEVELOPMENT TOOLS
 
 - VSCode (https://code.visualstudio.com/download)
@@ -15,6 +20,7 @@
 - Whatstyle (https://github.com/mikr/whatstyle)
 - RAD Debugger (https://github.com/EpicGames/raddebugger)
 - RemdedyDbg (https://remedybg.handmade.network/)
+- HxD hexadecimal editor (https://mh-nexus.de/en/hxd/)
 
 # SYSTEM
 
