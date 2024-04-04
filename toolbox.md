@@ -1,15 +1,15 @@
 # UTILITIES / IT
 
-- [WIN] WinDirStat (https://windirstat.net/)
-- [WIN] Lock Hunter (https://lockhunter.com/download.htm)
-- [WIN] ConEmu (https://conemu.github.io/)
-- [WIN] Rufus (https://rufus.ie/): bootable usb creator
+- WinDirStat (https://windirstat.net/)
+- Lock Hunter (https://lockhunter.com/download.htm)
+- ConEmu (https://conemu.github.io/)
+- Rufus (https://rufus.ie/): bootable usb creator
 - Test Disk (https://www.cgsecurity.org/wiki/TestDisk#google_vignette): Investigate & recover system image
 
 # VISUAL STUDIO PLUGINS
 
-- Disasmo (https://github.com/EgorBo/Disasmo/)
-- Nifty Perforce (https://github.com/jtilander/niftyplugins)
+- Disasmo (https://github.com/EgorBo/Disasmo/): Dissambly viewer
+- Nifty Perforce (https://github.com/jtilander/niftyplugins): Perforce integration
 
 # DEVELOPMENT TOOLS
 
