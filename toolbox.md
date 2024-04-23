@@ -24,11 +24,16 @@
 
 # SYSTEM
 
+## Tools
 - Katai Struct (https://kaitai.io) : suit of tools to define/load/save/explore binary formats using DSL
 - vbindiff (https://www.cjmweb.net/vbindiff/): binary diff tool
 - Binary Ninja (https://binary.ninja): binary file investigator
+
+## File Formats
 - Toml configuration format (https://toml.io/en/)
 - Pkl configuration format (https://pkl-lang.org/index.html)
+- Flexbuffer (https://flatbuffers.dev/flexbuffers.html): structured binary format
+- Protobuf (https://protobuf.dev/): structured binary format
 
 # PERFORMANCE PROFILING
 
