@@ -5,6 +5,7 @@
 - Curve/Road editor (Bezier, etc.) using RayLib or Beevy
 - Reinforcement learning for simple game (e.g. Snake)
 - Game Of Life (Rust vs Odin vs Zig)
+- Ray Tracer (https://raytracing.github.io/)
 - Steganography
 - Advent of code 2023 Rust
 - Little game (TBD) using Unreal Engine
