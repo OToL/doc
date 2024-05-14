@@ -1,4 +1,5 @@
 # PROJECTS
+
 - NVIDIA Omniverse: https://www.nvidia.com/en-us/omniverse/usd/
 
 # SYSTEM LIBRARIES & TOOLS
@@ -23,6 +24,7 @@
 - Performance/profiling related blogs, videos and articles: https://github.com/fenbf/AwesomePerfCpp
 - Data oriented design resources: https://github.com/dbartolini/data-oriented-design
 - Graphics daily: https://www.jendrikillner.com/article_database/
+- Rendering articles: https://iquilezles.org/articles/
 
 # COURSES
 
