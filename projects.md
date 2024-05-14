@@ -10,7 +10,7 @@
 - Advent of code 2023 Rust
 - Little game (TBD) using Unreal Engine
 - Portal & Occlusion (http://c0de517e.com/011_portals.htm)
-- Signed Distance Field (SDF)
+- Signed Distance Field ([SDF](https://www.youtube.com/watch?v=-Xb3Kk3HhIw&t=58s))
 
 ## Done
 
