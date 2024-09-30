@@ -15,7 +15,6 @@
 
 - VSCode (https://code.visualstudio.com/download)
 - Python (https://www.python.org/downloads/)
-- CMake (https://cmake.org/)
 - Github Desktop (https://github.com/)
 - Whatstyle (https://github.com/mikr/whatstyle)
 - RAD Debugger (https://github.com/EpicGames/raddebugger)
@@ -23,6 +22,14 @@
 - HxD hexadecimal editor (https://mh-nexus.de/en/hxd/)
 
 # SYSTEM
+
+## Build
+
+- CMake (https://cmake.org/)
+- XMake (https://github.com/xmake-io/xmake/)
+- Scons (https://scons.org/)
+- Sharpmake (https://github.com/ubisoft/Sharpmake)
+- Jenkins (https://www.jenkins.io/)
 
 ## Tools
 - Katai Struct (https://kaitai.io) : suit of tools to define/load/save/explore binary formats using DSL
